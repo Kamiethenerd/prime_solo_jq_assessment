@@ -1,0 +1,12 @@
+div{
+	background-color: pink;
+	height: 40px;
+	width: 200px;
+	border: 2px;
+}
+.otherDiv{
+	background-color: blue;
+	height: 40px;
+	width: 200px;
+	border: 2px;
+}
